@@ -15,4 +15,4 @@ else
 fi
 # Activate dbus variables
 dbus-update-activation-environment --all
-ssh-agent /usr/bin/i3
+ssh-agent dwm
